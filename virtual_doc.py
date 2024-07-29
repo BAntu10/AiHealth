@@ -14,7 +14,7 @@ st.title("Hello there I am Dr Shaun Murphy")
 st.write("Track your mood, get personalized mindfulness exercises, and receive real-time emotional support, medicinal advice, triage, OTC recommendations, and more!")
 
 client = Groq(
-    api_key='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',
+    api_key=f'{os.environ.get('GROQ')',
 )
 
 if "messages" not in st.session_state:
