@@ -7,7 +7,7 @@ Porblem statement domain: Healthcare
 Subdomain: HEL-4
 
 ## Preview
-<img src="static/preview.png" alt="app preview">
+<img src="bot-icon.png" alt="app preview">
 
 ## Overview
 
@@ -28,8 +28,8 @@ To get started with the project, follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/RiteshYennuwar/Virtual_HealthCare_Assistant.git
-    cd Virtual_HealthCare_Assistant
+    git clone https://github.com/BAntu10/AiHealth.git
+    cd AiHealth
 2. Install the required dependencies using 
     ```bash
     pip install -r requirements.txt
