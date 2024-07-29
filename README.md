@@ -1,12 +1,9 @@
 # Virtual HealthCare Assistant
 
-This repository contains the code to run an AI-powered assistant to provide medical advice, answer patient queries, and triage symptoms, enhancing patient engagement and care.
+This repository contains the code to run an AI-powered assistant to provide medical advice, answer patient queries, and triage symptoms, enhancing patient engagement and care called Dr Shaun Murphy, This AI is inspired from "the good doctor".
 
-Porblem statement domain: Healthcare
 
-Subdomain: HEL-4
-
-## Preview
+## AiDoctor
 <img src="bot-icon.png" alt="app preview">
 
 ## Overview
